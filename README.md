@@ -1,2 +1,1 @@
-# parthosen.github.io
-My personal website
+# https://parthobtk.github.io/sen.github.io/
